@@ -84,7 +84,7 @@ A high‑level view of the emergency room performance showing core metrics like:
 * Satisfaction scores
 * Admissions vs non‑admissions
 
-![Hospital Emergency Room Dashboard_pages-to-jpg-0001](https://github.com/user-attachments/assets/f38b2a32-fd5d-48f6-8280-3287aeae39f6)
+![Hospital Emergency Room Dashboard_pages-to-jpg-0001](https://github.com/Sakshibagul11/Hospital-Emergency-Room/blob/main/Monthly_view.png)
 
 ---
 
@@ -92,7 +92,7 @@ A high‑level view of the emergency room performance showing core metrics like:
 
 Visualizes trends in patient visits over time, including breakdowns by gender, age group, and visit frequency.
 
-![Hospital Emergency Room Dashboard_pages-to-jpg-0002](https://github.com/user-attachments/assets/f1ca92e7-9444-4326-9b61-7b3c942c547a)
+![Hospital Emergency Room Dashboard_pages-to-jpg-0002](https://github.com/Sakshibagul11/Hospital-Emergency-Room/blob/main/consolidate.png)
 
 ---
 
@@ -100,7 +100,7 @@ Visualizes trends in patient visits over time, including breakdowns by gender, a
 
 Shows wait time distribution by department, time of day, and day of week — helping identify bottlenecks.
 
-![Hospital Emergency Room Dashboard_pages-to-jpg-0003](https://github.com/user-attachments/assets/67876e1c-4bdc-48a6-b692-c3eed9d844b7)
+![Hospital Emergency Room Dashboard_pages-to-jpg-0003](https://github.com/Sakshibagul11/Hospital-Emergency-Room/blob/main/Patient_details.png)
 
 ---
 
@@ -108,7 +108,7 @@ Shows wait time distribution by department, time of day, and day of week — hel
 
 Displays key insights from all dashboards.
 
-![Hospital Emergency Room Dashboard_pages-to-jpg-0004](https://github.com/user-attachments/assets/e1c1d62f-1b0d-4d5c-abba-f57b541a16dd)
+![Hospital Emergency Room Dashboard_pages-to-jpg-0004](https://github.com/Sakshibagul11/Hospital-Emergency-Room/blob/main/key_takeaways.png)
 
 ---
 
